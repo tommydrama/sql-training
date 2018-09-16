@@ -1,0 +1,1 @@
+SELECT id_plate, brand, model, engine_cap_dm3, power_horse, prod_year FROM `git-train`.cars;
