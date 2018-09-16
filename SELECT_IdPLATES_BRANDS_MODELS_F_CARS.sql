@@ -1,0 +1,1 @@
+SELECT id_plate, brand, model from cars where prod_year <2010
