@@ -1,0 +1,1 @@
+SELECT name, user FROM githubdb.customers_employee;
